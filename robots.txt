@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.studentfriendlysupport.co.za/sitemap.xml
